@@ -12,4 +12,4 @@ This Python script generates strong and secure passwords. It allows users to spe
 
 Features:
 1.Customizable minimum password length
-2.Option to include numbers, and special characters
+2.Option to include upper case letters,lower case letters, numbers, and special characters
